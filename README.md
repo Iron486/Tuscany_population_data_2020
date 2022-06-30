@@ -17,3 +17,7 @@ Some of the columns in the original dataset were removed since majority of rows 
 Some columns were transformed from `object` data type to `integer`, missing values indicated with `..` were filled with the integer '0' and the headers were translated to English.
 
 Click the following file [Tuscany_population_data.ipynb](https://github.com/Iron486/Tuscany_population_data_2020/blob/main/Tuscany_population_data.ipynb) to take a look at the preprocessing steps.
+
+### **License**
+[CC0: Public Domain
+Edit](https://creativecommons.org/publicdomain/zero/1.0/)
