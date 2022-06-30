@@ -9,7 +9,7 @@ You can perform an exploratory data analysis of the data, working with `Pandas` 
 Interesting visualizations can be performed too using, for instance, Python libraries to reproduce multivariate plots, frequency plots for each feature, plots that show marital status per age etc.
 Furthermore, it could be very useful for people who want to practice SQL or queries using Pandas.
 
-Remember to upvote if you found the dataset useful :).
+Remember to star the repository if you found the dataset useful and inspiring :).
 
 ### **Collection methodology**
 The data were fetched from the following link: https://dati.toscana.it/dataset/popolazione-residente-in-toscana-per-eta-sesso-e-stato-civile-anno-2020/resource/2b480e62-cfca-437c-b060-a06ad4e3996a.
